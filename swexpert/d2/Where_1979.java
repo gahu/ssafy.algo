@@ -57,14 +57,6 @@ public class Where_1979 {
 					map[j][j2] = Integer.parseInt(st.nextToken());
 				}
 			}
-			
-//			System.out.println();
-//			for (int j = 0; j < N; j++) {
-//				for (int j2 = 0; j2 < N; j2++) {
-//					System.out.print(map[j][j2] + " ");
-//				}
-//				System.out.println();
-//			}
 			System.out.println("#" + i + " " + where());
 		}
 	}
